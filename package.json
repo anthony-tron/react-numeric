@@ -1,5 +1,5 @@
 {
-  "name": "react-numeric",
+  "name": "@anthony-tron/react-numeric",
   "description": "A react component for formatted number form fields",
   "version": "1.0.0",
   "repository": {
@@ -21,7 +21,7 @@
     "react",
     "numeric"
   ],
-  "author": "Mehmet Kamil Morcay <mehmetmorcay@gmail.com> (https://github.com/mkg0)",
+  "author": "anthony-tron",
   "license": "MIT",
   "dependencies": {
     "autonumeric": "^4.4.0"

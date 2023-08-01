@@ -3,6 +3,8 @@
 [![npm](https://img.shields.io/npm/l/react-numeric.svg?style=flat-square)]()
 [![npm](https://img.shields.io/npm/v/react-numeric.svg?style=flat-square)](https://www.npmjs.com/package/react-numeric)
 
+Forked from https://github.com/mkg0/react-numeric because original author did
+not publish latest fixes to npm.
 
 A react component for formatted number form fields
 > react-numeric is a wrapper component for [autonumeric](https://github.com/autoNumeric/autoNumeric).
