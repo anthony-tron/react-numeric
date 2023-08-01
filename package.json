@@ -1,7 +1,7 @@
 {
   "name": "@anthony-tron/react-numeric",
   "description": "A react component for formatted number form fields",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/mkg0/react-numeric"
