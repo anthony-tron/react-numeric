@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mkg0/react-numeric"
+    "url": "https://github.com/anthony-tron/react-numeric"
   },
   "main": "dist/index.js",
   "keywords": [
